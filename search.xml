@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>自我介绍</title>
+    <url>/2022/11/13/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<blockquote>
+<p>有时间再写</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>aboutMe</category>
+      </categories>
+  </entry>
+  <entry>
     <title>一条关于外卖被偷的新闻</title>
     <url>/2022/11/14/%E5%85%B3%E4%BA%8E%E5%81%B7%E5%A4%96%E5%8D%96%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<blockquote>
 <p>事情起源</p>
 </blockquote>
 <p style="text-indent:2em">昨天在网上看到一条新闻，由此联想到大四下学期曾发生的一件有些相似的事，于是有了一点点的思考。</p>
-[【新闻链接】](https://haokan.baidu.com/v?vid=11088723513520966692&backflow=1&pd=d_push&pagepd=d_push)
 
+<p><a href="https://haokan.baidu.com/v?vid=11088723513520966692&backflow=1&pd=d_push&pagepd=d_push">【新闻链接】</a></p>
 <blockquote>
 <p>我的经历</p>
 </blockquote>
@@ -45,17 +56,6 @@
 ]]></content>
       <categories>
         <category>thinking</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>自我介绍</title>
-    <url>/2022/11/13/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<blockquote>
-<p>有时间再写</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>aboutMe</category>
       </categories>
   </entry>
 </search>
