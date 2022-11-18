@@ -18,6 +18,25 @@
       </categories>
   </entry>
   <entry>
+    <title>Secret</title>
+    <url>/2022/11/18/Secret/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong password" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="5437322086dd4c28eaf0602b83fb2664e9109fdec108d029bcb1da3730545634">8d237226904a1d0817c9bb87e9e380021738b6c4431e755c1ac45797b4044a83fe586f0943d1eb0d7266022c5878b06e4261705b9d9ce7921bc334cf086a53175ff5524c76110a01c9511d15e9a6ae68ef551f30159d47e04d42ce8618e4aaca6bbb7167999457490f15796c58758a0149084bcf05ac60a4bc8e4bcd06b195cb99cd4b55d1c85bc653617b3eb5bbea4b</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">I work for ? (9 letters)</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>encryption</category>
+      </categories>
+  </entry>
+  <entry>
     <title>一条关于外卖被偷的新闻</title>
     <url>/2022/11/14/%E5%85%B3%E4%BA%8E%E5%81%B7%E5%A4%96%E5%8D%96%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<blockquote>
